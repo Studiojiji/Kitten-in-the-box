@@ -11,7 +11,7 @@
   "author": "jiindev",
   "license": "ISC",
   "dependencies": {
-    "next": "^9.2.2",
+    "next": "^11.1.0",
     "next-redux-wrapper": "^5.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
